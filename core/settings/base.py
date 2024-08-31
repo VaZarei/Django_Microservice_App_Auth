@@ -51,7 +51,7 @@ INSTALLED_APPS = [
     #Local Apps
     'user',
     'transaction',
-    #'authMixin'
+    #'authMixin',
 ]
 
 #USER MODEL
